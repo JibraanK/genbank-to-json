@@ -1,0 +1,116 @@
+{
+    "name": "Untitled",
+    "sequence": "GAGATACCTACAGCGTGAGCTATGAGAAAGCGCCACGCTTCCCGAAGGGAGAAAGGCGGACAGGTATCCGGTAAGCGGCAGGGTCGGAACAGGAGAGCGCACGAGGGAGCTTCCAGGGGGAAACGCCTGGTATCTTTATAGTCCTGTCGGGTTTCGCCACCTCTGACTTGAGCGTCGATTTTTGTGATGCTCGTCAGGGGGGCGGAGCCTATGGAAAAACGCCAGCAACGCGGCCTTTTTACGGTTCCTGGCCTTTTGCTGGCCTTTTGCTCACATGTTCTTTCCTGCGTTATCCCCTGATTCTGTGGATAACCGTATTACCGCCTTTGAGTGAGCTGATACCGCTCGCCGCAGCCGAACGACCGAGCGCAGCGAGTCAGTGAGCGAGGAAGCGGAAGAGCGCCCAATACGCAAACCGCCTCTCCCCGCGCGTTGGCCGATTCATTAATGCAGCTGGCACGACAGGTTTCCCGACTGGAAAGCGGGCAGTGAGCGCAACGCAATTAATGTGAGTTAGCTCACTCATTAGGCACCCCAGGCTTTACACTTTATGCTTCCGGCTCGTATGTTGTGTGGAATTGTGAGCGGATAACAATTTCACACAGGAAACAGCTATGACCATGATTACGCCAAGCTTGCATGCCTGCAGGTCGACTCTAGAGGATCCCCGGGTACCGAGCTCGAATTCACTGGCCGTCGTTTTACAACGTCGTGACTGGGAAAACCCTGGCGTTACCCAACTTAATCGCCTTGCAGCACATCCCCCTTTCGCCAGCTGGCGTAATAGCGAAGAGGCCCGCACCGATCGCCCTTCCCAACAGTTGCGCAGCCTGAATGGCGAATGGCGCCTGATGCGGTATTTTCTCCTTACGCATCTGTGCGGTATTTCACACCGCATATGGTGCACTCTCAGTACAATCTGCTCTGATGCCGCATAGTTAAGCCAGCCCCGACACCCGCCAACACCCGCTGACGCGCCCTGACGGGCTTGTCTGCTCCCGGCATCCGCTTACAGACAAGCTGTGACCGTCTCCGGGAGCTGCATGTGTCAGAGGTTTTCACCGTCATCACCGAAACGCGCGAGACGAAAGGGCCTCGTGATACGCCTATTTTTATAGGTTAATGTCATGATAATAATGGTTTCTTAGACGTCAGGTGGCACTTTTCGGGGAAATGTGCGCGGAACCCCTATTTGTTTATTTTTCTAAATACATTCAAATATGTATCCGCTCATGAGACAATAACCCTGATAAATGCTTCAATAATATTGAAAAAGGAAGAGTATGAGTATTCAACATTTCCGTGTCGCCCTTATTCCCTTTTTTGCGGCATTTTGCCTTCCTGTTTTTGCTCACCCAGAAACGCTGGTGAAAGTAAAAGATGCTGAAGATCAGTTGGGTGCACGAGTGGGTTACATCGAACTGGATCTCAACAGCGGTAAGATCCTTGAGAGTTTTCGCCCCGAAGAACGTTTTCCAATGATGAGCACTTTTAAAGTTCTGCTATGTGGCGCGGTATTATCCCGTATTGACGCCGGGCAAGAGCAACTCGGTCGCCGCATACACTATTCTCAGAATGACTTGGTTGAGTACTCACCAGTCACAGAAAAGCATCTTACGGATGGCATGACAGTAAGAGAATTATGCAGTGCTGCCATAACCATGAGTGATAACACTGCGGCCAACTTACTTCTGACAACGATCGGAGGACCGAAGGAGCTAACCGCTTTTTTGCACAACATGGGGGATCATGTAACTCGCCTTGATCGTTGGGAACCGGAGCTGAATGAAGCCATACCAAACGACGAGCGTGACACCACGATGCCTGTAGCAATGGCAACAACGTTGCGCAAACTATTAACTGGCGAACTACTTACTCTAGCTTCCCGGCAACAATTAATAGACTGGATGGAGGCGGATAAAGTTGCAGGACCACTTCTGCGCTCGGCCCTTCCGGCTGGCTGGTTTATTGCTGATAAATCTGGAGCCGGTGAGCGTGGGTCTCGCGGTATCATTGCAGCACTGGGGCCAGATGGTAAGCCCTCCCGTATCGTAGTTATCTACACGACGGGGAGTCAGGCAACTATGGATGAACGAAATAGACAGATCGCTGAGATAGGTGCCTCACTGATTAAGCATTGGTAACTGTCAGACCAAGTTTACTCATATATACTTTAGATTGATTTAAAACTTCATTTTTAATTTAAAAGGATCTAGGTGAAGATCCTTTTTGATAATCTCATGACCAAAATCCCTTAACGTGAGTTTTCGTTCCACTGAGCGTCAGACCCCGTAGAAAAGATCAAAGGATCTTCTTGAGATCCTTTTTTTCTGCGCGTAATCTGCTGCTTGCAAACAAAAAAACCACCGCTACCAGCGGTGGTTTGTTTGCCGGATCAAGAGCTACCAACTCTTTTTCCGAAGGTAACTGGCTTCAGCAGAGCGCAGATACCAAATACTGTTCTTCTAGTGTAGCCGTAGTTAGGCCACCACTTCAAGAACTCTGTAGCACCGCCTACATACCTCGCTCTGCTAATCCTGTTACCAGTGGCTGCTGCCAGTGGCGATAAGTCGTGTCTTACCGGGTTGGACTCAAGACGATAGTTACCGGATAAGGCGCAGCGGTCGGGCTGAACGGGGGGTTCGTGCACACAGCCCAGCTTGGAGCGAACGACCTACACCGAACT",
+    "features": [
+        {
+            "name": "",
+            "start": 0,
+            "stop": 2686,
+            "legend": "source",
+            "source": "json-feature",
+            "visible": true,
+            "strand": 1,
+            "tags": ""
+        },
+        {
+            "name": "CAP binding site",
+            "start": 504,
+            "stop": 526,
+            "legend": "protein_bind",
+            "source": "json-feature",
+            "visible": true,
+            "strand": 1,
+            "tags": "CAP binding site"
+        },
+        {
+            "name": "lac promoter",
+            "start": 540,
+            "stop": 571,
+            "legend": "promoter",
+            "source": "json-feature",
+            "visible": true,
+            "strand": 1,
+            "tags": "lac promoter"
+        },
+        {
+            "name": "lac operator",
+            "start": 578,
+            "stop": 595,
+            "legend": "protein_bind",
+            "source": "json-feature",
+            "visible": true,
+            "strand": 1,
+            "tags": "lac operator"
+        },
+        {
+            "name": "M13 rev",
+            "start": 602,
+            "stop": 619,
+            "legend": "primer_bind",
+            "source": "json-feature",
+            "visible": true,
+            "strand": 1,
+            "tags": "M13 rev"
+        },
+        {
+            "name": "lacZ-alpha",
+            "start": 614,
+            "stop": 938,
+            "legend": "CDS",
+            "source": "json-feature",
+            "visible": true,
+            "strand": 1,
+            "tags": "lacZ-alpha"
+        },
+        {
+            "name": "MCS",
+            "start": 631,
+            "stop": 688,
+            "legend": "misc_feature",
+            "source": "json-feature",
+            "visible": true,
+            "strand": 1,
+            "tags": "MCS"
+        },
+        {
+            "name": "M13 fwd",
+            "start": 688,
+            "stop": 705,
+            "legend": "primer_bind",
+            "source": "json-feature",
+            "visible": true,
+            "strand": -1,
+            "tags": "M13 fwd"
+        },
+        {
+            "name": "AmpR promoter",
+            "start": 1178,
+            "stop": 1283,
+            "legend": "promoter",
+            "source": "json-feature",
+            "visible": true,
+            "strand": 1,
+            "tags": "AmpR promoter"
+        },
+        {
+            "name": "AmpR",
+            "start": 1283,
+            "stop": 2144,
+            "legend": "CDS",
+            "source": "json-feature",
+            "visible": true,
+            "strand": 1,
+            "tags": "AmpR"
+        },
+        {
+            "name": "ori",
+            "start": 0,
+            "stop": 2686,
+            "legend": "rep_origin",
+            "source": "json-feature",
+            "visible": true,
+            "strand": 1,
+            "tags": "ori"
+        }
+    ]
+}
